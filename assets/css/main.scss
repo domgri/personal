@@ -1,0 +1,14 @@
+---
+---
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+a.paragraph {
+  @apply text-blue-600 dark:text-blue-400 hover:underline;
+}
+
+a.nav-link {
+  @apply text-gray-700 dark:text-gray-300 font-bold hover:underline;
+}

@@ -1,0 +1,8 @@
+url: "https://domgrig.github.io"
+baseurl: "personal" # the subpath of your site, e.g. /blog
+title: "" # the name of your site, e.g. ACME Corp.
+plugins:
+  - jekyll-postcss
+
+postcss:
+  cache: false
